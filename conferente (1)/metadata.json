@@ -1,0 +1,7 @@
+{
+  "name": "Conferente",
+  "description": "Industrial weighing application interface for logistics operators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
